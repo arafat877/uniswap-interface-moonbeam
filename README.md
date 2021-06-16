@@ -1,8 +1,8 @@
 # Classic DEX Example forked from Sushiswap-Classic-Exchange (Uniswap)
 
-Forked from [sushiswap/sushiswap-classic-exchange](https://github.com/sushiswap/sushiswap-classic-exchange), and updated for both a Moonbase Standalone Node and Moonbase Alpha.
+Forked from [sushiswap/sushiswap-classic-exchange](https://github.com/sushiswap/sushiswap-classic-exchange), and updated for the ROPSTEN TestNet.
 
-## Moonbase ROPSTEN Addresses
+## The ROPSTEN Addresses
 
 If you use the [following repository](https://github.com/albertov19/uniswap-contracts-moonbeam): your contracts should have the following addresses:
 
