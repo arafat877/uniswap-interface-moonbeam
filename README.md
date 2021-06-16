@@ -7,10 +7,10 @@ Forked from [sushiswap/sushiswap-classic-exchange](https://github.com/sushiswap/
 If you use the [following repository](https://github.com/albertov19/uniswap-contracts-moonbeam): your contracts should have the following addresses:
 
 ```
-      "WETH": "0xC2Bf5F29a4384b1aB0C063e1c666f02121B6084a",
-      "factory": "0x5c4242beB94dE30b922f57241f1D02f36e906915",
-      "router": "0x42e2EE7Ba8975c473157634Ac2AF4098190fc741",
-      "multicall": "0xF8cef78E923919054037a1D03662bBD884fF4edf",
+      "WETH": "0xc9AaC2857B56CC8a274C360Fec231241d815Ca63",
+      "Factory": "0x78A75A02c07a123a9EF05edB35Fc361f9fbd8B8a",
+      "Router": "0x9618848B265b937992F5Eaa004F0ff30dF118FAA",
+      "multicall": "0xbF910631692fd925fD094ee09A3783E8B6E87879",
       "init_code_hash": "0x01429e880a7972ebfbba904a5bbe32a816e78273e4b38ffa6bdeaebce8adba7c",
       "tok1": "0xe573BCA813c741229ffB2488F7856C6cAa841041",
       "tok2": "0xBb0CC0fb3e0c06725c67167501f850B4900D6DB5"
@@ -23,10 +23,10 @@ To make the interface work with your Moonbase Alpha deployment, you need to modi
 On Moonbase Alpha, these are the following addresses:
 
 ```
-      "WETH": "0x1c94B4e46D35c27Ed241c8e9E2c91a7FB443CEdc",
-      "Factory": "0x3584446E08A4433f3b57d0D53A4338A282fB570D",
-      "Router": "0x56a82ED340bB2CFa87777b1C42adE7F687A2196a",
-      "multicall": "0xE3701304F4d224B738Dc7a22f216884B815aef12",
+      "WETH": "0xc9AaC2857B56CC8a274C360Fec231241d815Ca63",
+      "Factory": "0x78A75A02c07a123a9EF05edB35Fc361f9fbd8B8a",
+      "Router": "0x9618848B265b937992F5Eaa004F0ff30dF118FAA",
+      "multicall": "0xbF910631692fd925fD094ee09A3783E8B6E87879",
       "init_code_hash": "0x01429e880a7972ebfbba904a5bbe32a816e78273e4b38ffa6bdeaebce8adba7c",
       "tok1": "0x825458b871FC6582d94c6d2BCe887897DFD9EDA2",
       "tok2": "0xF8f525327D199F340D60d4b3ee847B5d49a28E3C"
